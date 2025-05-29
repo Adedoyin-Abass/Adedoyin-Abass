@@ -2,8 +2,14 @@
 
 I'm a passionate Cyber Security Analyst with a focus on securing data and assets. I love building security tools and exploring new technologies like cryptographic tools, SIEM tools, and Networking tools
 
-## 🌱 My Favorite Languages
-* Python and Bash
+## 🌱 Skills
+* Incident Response: Log analysis (Splunk, ELK Stack), incident handling
+* Threat Intelligence: MITRE ATT&CK mapping
+* SOC Operations: SIEM (Splunk, QRadar basics), network monitoring (Wireshark & TCPDump)
+* Static & Dynamic Malware Analysis: Debugging, Sandboxing, Reverse Engineering
+* Scripting: Python, Bash
+* Frameworks: NIST CSF, ISO 27001, NIST 800-53
+* Tools: Wireshark, Nessus, Splunk, Volatility
 
 ## 🔭 My Top Projects
 * **Built a Password Manager** - This was my very first project, and I made it intending to use Fernet (symmetric key) to keep the password and RSA (asymmetric key) to ensure safe exchange of the symmetric key.  [Link to Project 1](https://github.com/Ubuntu-Dekiru/Password_Manager)
@@ -12,8 +18,6 @@ I'm a passionate Cyber Security Analyst with a focus on securing data and assets
 
 ## 💬 Let's Connect!
 * [LinkedIn](https://linkedin.com/in/adedoyin-abass)
-
-## 📫 How to reach me: ...
 
 ---
 📊 My GitHub Stats:
