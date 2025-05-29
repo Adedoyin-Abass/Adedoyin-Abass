@@ -20,5 +20,4 @@ I'm a passionate Cyber Security Analyst with a focus on securing data and assets
 * [LinkedIn](https://linkedin.com/in/adedoyin-abass)
 
 ---
-📊 My GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ubuntu-Dekiru&show_icons=true&theme=radical)
