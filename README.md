@@ -12,12 +12,11 @@ I'm a passionate Cyber Security Analyst with a focus on securing data and assets
 * Tools: Wireshark, Nessus, Splunk, Volatility
 
 ## 🔭 My Top Projects
-* **Designed a Password Manager** - For my very first project, I built a system designed to use Fernet (symmetric-key encryption) for data protection, securing information with a key (potentially derived from a password). I also incorporated RSA (asymmetric-key encryption) to ensure the safe exchange of this symmetric key. [Link to Project 1](https://github.com/Ubuntu-Dekiru/Password_Manager)
-* **Built a Network Sniffer** - The network sniffer sniffs `Ethernet frames`, `IPv4`, `ICMP`, `TCP`, and `UDP` data packets. [Link to Project 2](https://github.com/Ubuntu-Dekiru/codealpha_tasks_network_sniffer)
-* **Built a Caesar Cipher** - My favorite feature is the custom feature that allows users to input their shift value. [Link to Project 3](https://github.com/Ubuntu-Dekiru/PRODIGY_CS_01)
-*  **Designed and Implemented a Block-Oriented Image Security tool** - My favorite feature of this code is its perfect reversibility, which relies on the key generated and used by the `block_scramble` function. [Link to Project 4](https://github.com/Ubuntu-Dekiru/PRODIGY_CS_02)
-*  **Developed XOR-based image manipulation tools** - The encryption algorithm makes use of XOR operations to obscure the relationship between the plaintext (original image) and the ciphertext (scrambled image) by mixing bits. [Link to Project 5](https://github.com/Ubuntu-Dekiru/xor_image_manipulation)
-  
+* **[Built a Password Manager tool](https://github.com/Ubuntu-Dekiru/Password_Manager)** - For my very first project, I built a system designed to use Fernet (symmetric-key encryption) for data protection, securing information with a key (potentially derived from a password). I also incorporated RSA (asymmetric-key encryption) to ensure the safe exchange of this symmetric key.
+* **[Built a Network Sniffer](https://github.com/Ubuntu-Dekiru/codealpha_tasks_network_sniffer)** - The network sniffer sniffs `Ethernet frames`, `IPv4`, `ICMP`, `TCP`, and `UDP` data packets.
+* **[Caesar Cipher](https://github.com/Ubuntu-Dekiru/PRODIGY_CS_01)** - My favorite feature is the custom feature that allows users to input their shift value.
+*  **[Block-Oriented Image Security tool](https://github.com/Ubuntu-Dekiru/PRODIGY_CS_02)** - My favorite feature of this code is its perfect reversibility, which relies on the key generated and used by the `block_scramble` function.
+*  **[Developed XOR-based image manipulation tools](https://github.com/Ubuntu-Dekiru/xor_image_manipulation)** - The encryption algorithm makes use of XOR operations to obscure the relationship between the plaintext (original image) and the ciphertext (scrambled image) by mixing bits.
 ## 💬 Let's Connect!
 * [LinkedIn](https://linkedin.com/in/adedoyin-abass)
 
