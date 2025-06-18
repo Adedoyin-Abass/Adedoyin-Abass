@@ -4,6 +4,7 @@ I'm a passionate Cyber Security Analyst with a focus on securing data and assets
 
 ## 🌱 Skills
 * Incident Response: Log analysis (Splunk, ELK Stack), incident handling
+* Vulnerability Analysis: Nessus, NMAP
 * Threat Intelligence: MITRE ATT&CK mapping
 * SOC Operations: SIEM (Splunk, QRadar basics), network monitoring (Wireshark & TCPDump)
 * Static & Dynamic Malware Analysis: Debugging, Sandboxing, Reverse Engineering
